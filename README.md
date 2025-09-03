@@ -1,2 +1,28 @@
-# TutorialJson
-Prácticas Java con Jackson para serialización JSON. Enfocado en formación técnica, validación curricular y uso académico.
+# Tutorial Json: Serialización JSON en Java con Jackson
+
+## Objetivo del proyecto
+Este repositorio contiene una práctica educativa para serializar objetos en Java utilizando la biblioteca **Jackson**. El objetivo es comprender cómo transformar estructuras de datos en formato JSON, aplicable en el desarrollo de APIs, documentación técnica y validación curricular.
+
+---
+
+## Requisitos previos
+- IntelliJ IDEA instalado
+- JDK 21 configurado
+- Conexión a GitHub
+- Conocimientos básicos de Java y Maven
+  
+---
+
+## Estructura del proyecto
+```
+PracticaJSON/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── sv/
+│   │   │   │   ├── edu/
+│   │   │   │   │   ├── esfe/
+│   │   │   │   │   │   ├── Producto.java
+│   │   │   │   │   │   ├── Main.java
+├── pom.xml
+```
