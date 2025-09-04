@@ -140,7 +140,7 @@ public class Main {
 
 ---
 
-## Paso 6: Reflexión técnica
+## Reflexión técnica
 
 - Esta práctica permite comprender cómo se transforma un objeto Java en una estructura JSON legible.
 - El uso de `writerWithDefaultPrettyPrinter()` mejora la presentación para validación técnica o revisión académica.
