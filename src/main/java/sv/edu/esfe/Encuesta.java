@@ -5,7 +5,7 @@ import java.util.List;
 // Clase que representa una encuesta con ID, título, fecha y preguntas
 public record Encuesta(int id, String titulo, String fecha, List<Pregunta> preguntas) {
 
-    // Muestra la encuesta con todas sus preguntas en un formato legible
+    //encuesta con todas sus preguntas en un formato legible
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder("Encuesta: ")
