@@ -1,0 +1,6 @@
+{
+  "id" : 1,
+  "nombre" : "Zapatos",
+  "categorias" : [ "Vestir", "Tennis" ],
+  "precio" : 299.99
+}

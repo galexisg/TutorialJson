@@ -1,0 +1,25 @@
+{
+  "id" : 1,
+  "fecha" : "2025-07-09",
+  "cliente" : {
+    "id" : 1,
+    "nombre" : "Ana Martinez",
+    "correo" : "ana.martinez@gmail.com"
+  },
+  "productos" : [ {
+    "id" : 1,
+    "nombre" : "Laptops",
+    "categorias" : [ "Lenovo", "PHP" ],
+    "precio" : 599.99
+  }, {
+    "id" : 2,
+    "nombre" : "Mouse",
+    "categorias" : [ "Gamer", "Oficina" ],
+    "precio" : 25.0
+  }, {
+    "id" : 3,
+    "nombre" : "Audifonos",
+    "categorias" : [ "Con cable", "Inalambricos" ],
+    "precio" : 19.99
+  } ]
+}

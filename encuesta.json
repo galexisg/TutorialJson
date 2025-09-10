@@ -1,0 +1,38 @@
+{
+  "id" : 100,
+  "titulo" : "Encuesta de Satisfacción al Cliente",
+  "fecha" : "2025-09-07",
+  "preguntas" : [
+    {
+    "id" : 1,
+    "texto" : "¿Como calificarias la atención recibida?",
+    "esObligatoria" : true,
+    "opciones" : [
+      { "id" : 1, "texto" : "Excelente", "selecionada" : false},
+      { "id" : 2, "texto" : "Buena", "selecionada" : false },
+      { "id" : 3, "texto" : "Regular", "selecionada" : false},
+      { "id" : 4, "texto" : "Mala", "selecionada" : false}
+    ]
+  },
+    {
+    "id" : 2,
+    "texto" : "¿Recomendaría nuestros servicios a otras personas?",
+    "esObligatoria" : true,
+    "opciones" : [
+      { "id" : 1, "texto" : "Si", "selecionada" : false},
+      { "id" : 2, "texto" : "No", "selecionada" : false},
+      { "id" : 3, "texto" : "Talvez", "selecionada" : false}
+    ]
+  },
+    {
+    "id" : 3,
+    "texto" : "¿Qué aspecto considera que debemos mejorar?",
+    "esObligatoria" : false,
+    "opciones" : [
+      { "id" : 1, "texto" : "Tiempo de Respuesta", "selecionada" : false},
+      { "id" : 2, "texto" : "Amabilidad", "selecionada" : false},
+      { "id" : 3, "texto" : "Claridad de la Información", "selecionada" : false},
+      { "id" : 4, "texto" : "Otro", "selecionada" : false}
+    ]
+  } ]
+}
