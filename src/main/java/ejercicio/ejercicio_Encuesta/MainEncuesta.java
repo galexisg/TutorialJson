@@ -1,4 +1,4 @@
-package ejercicio.ejercicioEncuesta;
+package ejercicio.ejercicio_Encuesta;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import ejercicio.model.Encuesta;
