@@ -1,0 +1,6 @@
+{
+  "id" : 101,
+  "nombre" : "Laptop",
+  "categorias" : [ "Electrónica", "Computadoras" ],
+  "precio" : 799.99
+}
